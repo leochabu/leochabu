@@ -6,6 +6,8 @@ Last updated on 06/19/2026
 
 I build, modernize, and maintain digital platforms that connect marketing, product, operations, analytics, and sales systems. My work is especially focused on high-traffic websites, custom WordPress ecosystems, API integrations, lead-generation platforms, performance optimization, and AI-powered development workflows.
 
+Most of my professional engineering work is maintained in private Bitbucket repositories. This GitHub profile highlights selected public work, technical focus areas, and the kind of systems I build.
+
 ## What I do
 
 - **Full-stack engineering** — PHP, Laravel, WordPress, JavaScript, React, MySQL, REST APIs, custom plugins, themes, and backend integrations.
