@@ -2,20 +2,39 @@
 
 Last updated on 06/19/2026
 
-**Full-Stack Software Engineer** — PHP · Laravel · WordPress · JavaScript · React · MySQL · AWS
+**Full-Stack Software Engineer** focused on PHP, Laravel, WordPress, JavaScript, React, MySQL, AWS, automation, and AI-assisted development.
 
-I build and run large-scale digital platforms for travel, hospitality, and e-commerce brands — millions of monthly visits, 10,000+ leads generated per month, supporting $40M+ in annual revenue.
+I build, modernize, and maintain digital platforms that connect marketing, product, operations, analytics, and sales systems. My work is especially focused on high-traffic websites, custom WordPress ecosystems, API integrations, lead-generation platforms, performance optimization, and AI-powered development workflows.
 
-## What I'm working on
+## What I do
 
-- 🤖 **Agentic AI development** — I built a Claude Code-based workflow that generates complete systems from specs, plans, issues, and automated tests. 9 production systems shipped with it so far; feature delivery time down ~80%.
-- ⚡ **Performance at scale** — optimized 100+ websites, cutting load times from 6–40s to ~2s.
-- 🔍 **Technical SEO & GEO** — structured data, enterprise search (Solr/SearchStax), and Generative Engine Optimization strategies for LLM visibility; 2–5x organic traffic growth.
-- 🔗 **Systems integration** — Salesforce CRM, payment providers, analytics, and AI services connected into scalable ecosystems.
+- **Full-stack engineering** — PHP, Laravel, WordPress, JavaScript, React, MySQL, REST APIs, custom plugins, themes, and backend integrations.
+- **Platform architecture** — scalable web systems, multisite environments, data flows, automation pipelines, and maintainable technical foundations.
+- **Performance & reliability** — optimization of large WordPress platforms, page speed improvements, debugging, monitoring, and production support.
+- **SEO, analytics & GEO** — structured data, technical SEO, enterprise search, GA4/Google Ads data pipelines, and LLM visibility strategies.
+- **AI-assisted development** — agentic workflows using Claude Code and AI tools to generate specs, plans, issues, tests, and production-ready systems.
+
+## Current focus
+
+I'm currently working on practical AI-assisted software development workflows that reduce delivery time while keeping code quality, maintainability, and business requirements under control.
+
+I also continue to work on large-scale WordPress/PHP platforms, integrations with CRMs and marketing systems, and performance improvements for websites that support significant lead volume and revenue.
 
 ## Background
 
-10+ years across full-stack engineering and digital marketing. Lead developer for the PHP/WordPress stack at a performance digital agency, directing teams of 3–5 developers. Postgraduate degrees in Software Architecture and Software Engineering.
+I have 10+ years of experience across full-stack development, WordPress engineering, software architecture, technical SEO, analytics, and digital marketing operations.
+
+I have led development for large PHP/WordPress stacks, coordinated teams of developers, built custom plugins and integrations, improved performance across 100+ websites, and supported platforms generating thousands of leads per month.
+
+I hold postgraduate degrees in Software Architecture and Software Engineering.
+
+## Tech stack
+
+**Backend:** PHP, Laravel, WordPress, MySQL, REST APIs  
+**Frontend:** JavaScript, jQuery, React, HTML, CSS  
+**Cloud & tools:** AWS, GitHub, WPEngine, BigQuery, GA4, Google Ads, New Relic  
+**Marketing tech:** Salesforce, Odoo, Gravity Forms, GTM, structured data, SearchStax/Solr  
+**AI workflow:** Claude Code, ChatGPT, AI agents, automated specs, implementation planning, testing workflows
 
 ## Get in touch
 
