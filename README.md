@@ -1,5 +1,7 @@
 # Hi, I'm Leandro Chaves 👋
 
+Last updated on 06/19/2026
+
 **Full-Stack Software Engineer** — PHP · Laravel · WordPress · JavaScript · React · MySQL · AWS
 
 I build and run large-scale digital platforms for travel, hospitality, and e-commerce brands — millions of monthly visits, 10,000+ leads generated per month, supporting $40M+ in annual revenue.
