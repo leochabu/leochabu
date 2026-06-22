@@ -38,6 +38,18 @@ I hold postgraduate degrees in Software Architecture and Software Engineering.
 **Marketing tech:** Salesforce, Odoo, Gravity Forms, GTM, structured data, SearchStax/Solr  
 **AI workflow:** Claude Code, ChatGPT, AI agents, automated specs, implementation planning, testing workflows
 
+## Recent work
+
+Some public-facing projects and platforms I have worked on recently include:
+
+- [SellMyTimeshareNow](https://www.sellmytimesharenow.com)
+- [Carefree Destinations](https://www.carefreedestinations.com)
+- [We Buy and Sell Timeshares](https://www.webuyandselltimeshares.com)
+- [Holiday Systems Finance](https://www.holidaysystemsfinance.com)
+- [Sky High Pass](https://www.skyhighpass.com)
+- [Signature Pass](https://signaturepass.reservecollectionclub.com)
+- [Club Venture Registration](https://register.clubventure.com)
+
 ## Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leochabu)
