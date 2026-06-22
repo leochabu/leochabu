@@ -40,15 +40,17 @@ I hold postgraduate degrees in Software Architecture and Software Engineering.
 
 ## Tools & platforms
 
-I have worked with tools and platforms across development, hosting, analytics, CRM, automation, search, monitoring, and AI-assisted delivery:
+I have worked with tools and platforms across development, hosting, analytics, CRM, automation, search, monitoring, AI-assisted delivery, and marketing technology:
 
-- **Development:** Git, GitHub, Bitbucket, Composer, npm, WP-CLI, Postman, VS Code, Local by Flywheel
-- **WordPress:** Advanced Custom Fields, Gravity Forms, WooCommerce, WPBakery, Yoast SEO, WP Rocket, custom themes, custom plugins, MU plugins
-- **Hosting & infrastructure:** AWS, WPEngine, Vercel, Cloudflare, Kinsta, DigitalOcean, cron jobs, REST APIs, server-side tracking
-- **Analytics & marketing:** GA4, Google Tag Manager, Google Ads, BigQuery, Looker Studio, structured data, technical SEO, GEO
-- **CRM & integrations:** Salesforce, Odoo, Zapier, Authorize.Net, payment gateways, lead routing workflows
+- **Languages & frameworks:** PHP, Laravel, JavaScript, jQuery, React, Next.js, HTML, CSS, MySQL, PostgreSQL
+- **WordPress ecosystem:** WordPress Multisite, custom plugins, custom themes, MU plugins, Advanced Custom Fields, Gravity Forms, WooCommerce, WPBakery, Yoast SEO, WP Rocket, WP-Cron, WP-CLI
+- **Hosting & infrastructure:** WPEngine, AWS, Vercel, Cloudflare, Cloudflare DNS, Cloudflare Workers, DigitalOcean, Kinsta, cron jobs, REST APIs, server-side tracking
+- **Data & analytics:** GA4, Google Tag Manager, Google Ads, BigQuery, Looker Studio, event tracking, conversion tracking, structured data, technical SEO, GEO
+- **CRM & business systems:** Salesforce, Odoo, Zapier, Pabbly, webhooks, lead routing workflows, payment gateways, Authorize.Net
 - **Search & performance:** SearchStax, Solr, New Relic, Lighthouse, PageSpeed Insights, Core Web Vitals optimization
-- **AI & automation:** Claude Code, ChatGPT, AI agents, automated specs, implementation plans, issue generation, test-oriented workflows
+- **Modern app platforms:** Supabase, PostgreSQL, Edge Functions, Lovable, Framer, Next.js
+- **AI & automation:** Claude Code, ChatGPT, AI agents, prompt engineering, automated specs, implementation plans, issue generation, test-oriented workflows
+- **Development tools:** Git, GitHub, Bitbucket, Composer, npm, Postman, VS Code, Local by Flywheel
 
 ## Recent work
 
