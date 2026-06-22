@@ -38,6 +38,18 @@ I hold postgraduate degrees in Software Architecture and Software Engineering.
 **Marketing tech:** Salesforce, Odoo, Gravity Forms, GTM, structured data, SearchStax/Solr  
 **AI workflow:** Claude Code, ChatGPT, AI agents, automated specs, implementation planning, testing workflows
 
+## Tools & platforms
+
+I have worked with tools and platforms across development, hosting, analytics, CRM, automation, search, monitoring, and AI-assisted delivery:
+
+- **Development:** Git, GitHub, Bitbucket, Composer, npm, WP-CLI, Postman, VS Code, Local by Flywheel
+- **WordPress:** Advanced Custom Fields, Gravity Forms, WooCommerce, WPBakery, Yoast SEO, WP Rocket, custom themes, custom plugins, MU plugins
+- **Hosting & infrastructure:** AWS, WPEngine, Vercel, Cloudflare, Kinsta, DigitalOcean, cron jobs, REST APIs, server-side tracking
+- **Analytics & marketing:** GA4, Google Tag Manager, Google Ads, BigQuery, Looker Studio, structured data, technical SEO, GEO
+- **CRM & integrations:** Salesforce, Odoo, Zapier, Authorize.Net, payment gateways, lead routing workflows
+- **Search & performance:** SearchStax, Solr, New Relic, Lighthouse, PageSpeed Insights, Core Web Vitals optimization
+- **AI & automation:** Claude Code, ChatGPT, AI agents, automated specs, implementation plans, issue generation, test-oriented workflows
+
 ## Recent work
 
 Some public-facing projects and platforms I have worked on recently include:
