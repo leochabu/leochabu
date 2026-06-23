@@ -64,6 +64,10 @@ Some public-facing projects and platforms I have worked on recently include:
 - [Signature Pass](https://signaturepass.reservecollectionclub.com)
 - [Club Venture Registration](https://register.clubventure.com)
 
+## Why should you hire me?
+
+Because I combine hands-on engineering, product thinking, marketing technology, and AI-assisted delivery. I do not just write code — I help turn business requirements into scalable systems, connect platforms that need to work together, improve performance, automate repetitive work, and deliver solutions that support real revenue, leads, and operational efficiency.
+
 ## Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leochabu)
