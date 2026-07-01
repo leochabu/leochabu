@@ -1,6 +1,6 @@
 # Hi, I'm Leandro Chaves 👋
 
-Last updated on 06/29/2026
+Last updated on 06/30/2026
 
 I'm a **Full-Stack Software Engineer** working mainly with PHP, Laravel, WordPress, JavaScript, React, MySQL, AWS, automation, and AI-assisted development.
 
